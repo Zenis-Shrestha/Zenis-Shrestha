@@ -6,7 +6,8 @@
 <p align="center">Hello World </p>
 <p align="center"> I am Jenish Shrestha, a BackEnd web developer and a programmer.<br>Curious to learn and know more about how the web works </p>
 
-<p><img href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq"></p>
+<p align="center">
+  <img src="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq"></p>
 <hr/>
 
 - 🌱 Currently learning: Laravel , Flutter
