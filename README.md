@@ -5,11 +5,11 @@
   </p>
 
 <p align="center">Hello World </p>
-<p align="center"> I am Jenish Shrestha, a BackEnd web developer and a programmer. I love coding as well as making various cool stuffs. I can help create your ideas into beautiful result. Checkout my portfolio at https://prsn617.github.io/My-Portfolio/ for more stuffs.</p>
+<p align="center"> I am Jenish Shrestha, a BackEnd web developer and a programmer. I love coding as well as making various cool stuffs. I can help create your ideas into beautiful result.</p>
 
 <hr/>
 
-- 🌱 Currently learning: Laravel
+- 🌱 Currently learning: Laravel , Flutter
 - 🤔 Interested in Backend Development
 - 📫 Reach me: beingbest1@gmail.com
 
