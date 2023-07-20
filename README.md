@@ -5,7 +5,7 @@ Ahh<h2 align="center">Jenish Shrestha</h2>
   </p>
 
 <p align="center">Hello World </p>
-<p align="center"> I am Jenish Shrestha, a BackEnd web developer and a programmer.Curious to learn and know more about how the web works </p>
+<p align="center"> I am Jenish Shrestha, a BackEnd web developer and a programmer.<br>Curious to learn and know more about how the web works </p>
 
 <hr/>
 
