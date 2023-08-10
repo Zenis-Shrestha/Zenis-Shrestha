@@ -15,16 +15,4 @@
 - :mailbox: Reach me: beingbest1@gmail.com
 <hr/>
 
-(381 kB)
-https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
 
-
-(53 kB)
-https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif
-
-
-(19 kB)
-https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif
-
-
-(22 kB)
